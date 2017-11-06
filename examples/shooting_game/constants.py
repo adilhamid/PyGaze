@@ -41,7 +41,7 @@ KEYTIMEOUT = 1 # None for no timeout, or a value in milliseconds
 
 # EYETRACKER
 # general
-TRACKERTYPE = 'eyelink' # either 'smi', 'eyelink' or 'dummy' (NB: if DUMMYMODE is True, trackertype will be set to dummy automatically)
+TRACKERTYPE = 'eyetribe' # either 'smi', 'eyelink' or 'dummy' (NB: if DUMMYMODE is True, trackertype will be set to dummy automatically)
 SACCVELTHRESH = 35 # degrees per second, saccade velocity threshold
 SACCACCTHRESH = 9500 # degrees per second, saccade acceleration threshold
 # EyeLink only
